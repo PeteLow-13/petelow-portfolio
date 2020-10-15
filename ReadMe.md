@@ -1,9 +1,5 @@
-This project is the first itteration of my Responsive portfolio. 
-Contact sheet works well.
-About me needs more content 
-Portfolio items will be added as they are built.
-I utilized bootstrap and an additional external CSS to style the page.
-I used bootstrap to make the page responsive.
+# Interactive Portfolio
 
+This is the latest update of by interactive porfolio using Bootstrap. It features my a number of my projects as well as contact information, a link to my resume, and a little bit about me. 
 
 
